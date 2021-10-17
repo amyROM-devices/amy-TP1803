@@ -21,3 +21,5 @@ PRODUCT_GMS_CLIENTID_BASE := android-nubia
 PRODUCT_MANUFACTURER := Nubia
 PRODUCT_NAME := amy_TP1803
 PRODUCT_MODEL := Mini 5G
+# additional Amy stuff 
+TARGET_USES_BLUR := true
