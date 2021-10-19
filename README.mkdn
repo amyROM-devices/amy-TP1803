@@ -1,18 +1,21 @@
-Relevant local manifest: (Don check commits pls idk how to spell)
+# Local manifest is soon to be deprecated. Go ahead only if you know what you're doing!
+
+Relevant local manifest:
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!-- Remotes -->
- <remote fetch="https://gitlab.com/" name="gitlab-a" />
  <remote fetch="https://gitlab.pixelexperience.org" name="gitlab-pe" />
  <!-- TP1803 -->
-  <project name="amyROM-devices/device_nubia_TP1803" path="device/nubia/TP1803L" remote="github" revision="main" />
+  <project name="device_nubia_TP1803" path="device/nubia/TP1803L" remote="devices" revision="main" />
   <project name="PixelExperience-Devices/device_nubia_TP1803" path="device/nubia/TP1803" remote="github" revision="eleven" />
-  <project name="nullbytepl/device_tadiphone-fw" path="device/tadiphone-fw" remote="gitlab-a" revision="eleven" />
+  <project name="nullbytepl/device_tadiphone-fw" path="device/tadiphone-fw" remote="gitlab" revision="eleven" />
   <project name="AOSPA/android_device_qcom_common" path="device/qcom/common" remote="github" revision="ruby" />
   <project name="android/vendor-blobs/vendor_nubia_TP1803" path="vendor/nubia/TP1803" remote="gitlab-pe" revision="eleven" />
   <project name="ThankYouMario/proprietary_vendor_qcom_common" path="vendor/qcom/common" remote="github" revision="ruby" />
 </manifest>
 
 ```
+
+Device image:
 ![alt text](https://github.com/amyROM-devices/device_nubia_TP1803/blob/rosie/overlay-amy/packages/apps/Settings/res/drawable/amy_device.png?raw=true)
