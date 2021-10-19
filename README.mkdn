@@ -6,7 +6,7 @@ Relevant local manifest:
  <remote fetch="https://gitlab.com/" name="gitlab-a" />
  <remote fetch="https://gitlab.pixelexperience.org" name="gitlab-pe" />
  <!-- TP1803 -->
-  <project name="davigamer987/amy-TP1803" path="device/nubia/TP1803L" remote="github" revision="main" />
+  <project name="amyROM-devices/device_nubia_TP1803" path="device/nubia/TP1803L" remote="github" revision="main" />
   <project name="PixelExperience-Devices/device_nubia_TP1803" path="device/nubia/TP1803" remote="github" revision="eleven" />
   <project name="nullbytepl/device_tadiphone-fw" path="device/tadiphone-fw" remote="gitlab-a" revision="eleven" />
   <project name="AOSPA/android_device_qcom_common" path="device/qcom/common" remote="github" revision="ruby" />
