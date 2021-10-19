@@ -15,3 +15,4 @@ Relevant local manifest: (Don check commits pls idk how to spell)
 </manifest>
 
 ```
+![alt text](https://github.com/amyROM-devices/device_nubia_TP1803/blob/rosie/overlay-amy/packages/apps/Settings/res/drawable/amy_device.png?raw=true)
