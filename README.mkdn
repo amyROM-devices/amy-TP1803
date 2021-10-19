@@ -18,4 +18,4 @@ Relevant local manifest:
 ```
 
 Device image:
-![alt text](https://github.com/amyROM-devices/device_nubia_TP1803/blob/rosie/overlay-amy/packages/apps/Settings/res/drawable/amy_device.png?raw=true)
+![alt text](https://github.com/amyROM-devices/device_nubia_TP1803/blob/rosie/overlay/packages/apps/Settings/res/drawable/amy_device.png?raw=true)
