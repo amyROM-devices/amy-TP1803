@@ -3,9 +3,6 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 
-# DTBO
-BOARD_INCLUDE_RECOVERY_DTBO := true
-
 # Manifests
 DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE += device/nubia/TP1803/lineage_compatibility_matrix.xml
 BOARD_VENDOR := nubia
