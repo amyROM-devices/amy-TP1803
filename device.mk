@@ -6,9 +6,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/init-files/init.recovery.qcom.rc:recovery/root/init.recovery.qcom.rc
 
-# Overlays
-DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
-
 # Trust HAL
 PRODUCT_PACKAGES += \
     lineage.trust@1.0-service
